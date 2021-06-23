@@ -1,6 +1,6 @@
 :root{
-    --vermelho:#E50914;
-    --preta:#141414;
+    --vermelho:#e50914ce;
+    --preta:#050505d8;
 }
 
 *{
@@ -43,10 +43,10 @@ header nav a:hover{
     color:#fff;
 }
 
-/*filme principal*/
-.filme-principal{
+/*img principal*/
+.img-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa_PG.jpg');
    /* modificada a original pois o link não carregava imagem sem o .. no meu navegador.
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/capa-house.jpg');*/
 
@@ -60,14 +60,30 @@ header nav a:hover{
     align-items: flex-start;
 }
 
+/*filme principal
+.filme-principal{
+    font-size:16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa-house.jpg');
+    modificada a original pois o link não carregava imagem sem o .. no meu navegador.
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/capa-house.jpg');
 
-.filme-principal .descricao{
+    height:400px;
+    background-size:cover;
+ 
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}*/
+
+.img-principal .descricao{
     margin-top: 10px;
     margin-bottom: 40px;
 }
 
 
-.filme-principal .titulo{
+.img-principal .titulo{
     margin-top: 15%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
@@ -100,7 +116,7 @@ header nav a:hover{
     margin-left: 20px;
 }
 
-.filme-principal .container{
+.img-principal .container{
     width: 70%;
 }
 
