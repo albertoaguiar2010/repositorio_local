@@ -1,0 +1,16 @@
+C:\repositorio_local\dotnetdio\bin\Debug\net5.0\dotnetdio.exe
+C:\repositorio_local\dotnetdio\bin\Debug\net5.0\dotnetdio.deps.json
+C:\repositorio_local\dotnetdio\bin\Debug\net5.0\dotnetdio.runtimeconfig.json
+C:\repositorio_local\dotnetdio\bin\Debug\net5.0\dotnetdio.runtimeconfig.dev.json
+C:\repositorio_local\dotnetdio\bin\Debug\net5.0\dotnetdio.dll
+C:\repositorio_local\dotnetdio\bin\Debug\net5.0\ref\dotnetdio.dll
+C:\repositorio_local\dotnetdio\bin\Debug\net5.0\dotnetdio.pdb
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.csproj.AssemblyReference.cache
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.AssemblyInfoInputs.cache
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.AssemblyInfo.cs
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.csproj.CoreCompileInputs.cache
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.dll
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\ref\dotnetdio.dll
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.pdb
+C:\repositorio_local\dotnetdio\obj\Debug\net5.0\dotnetdio.genruntimeconfig.cache
