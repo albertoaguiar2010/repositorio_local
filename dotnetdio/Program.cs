@@ -7,9 +7,11 @@ namespace dotnetdio
         static void Main(string[] args)
         {
             int nVezes = 5;
+
             for (int i=0; i < nVezes; i++ )
             {
-                console.writeLine($" Bemvindo ao Curso de .NET {i}");
+                Console.writeLine($" Bemvindo ao Curso de .NET {i}");
+                Console.WriteLine("Hello World!");
             }
         }
     }
