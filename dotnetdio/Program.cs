@@ -10,7 +10,7 @@ namespace dotnetdio
 
             for (int i=0; i < nVezes; i++ )
             {
-                Console.writeLine($" Bemvindo ao Curso de .NET {i}");
+                Console.WriteLine($" Bemvindo ao Curso de .NET {i}");
                 Console.WriteLine("Hello World!");
             }
         }
