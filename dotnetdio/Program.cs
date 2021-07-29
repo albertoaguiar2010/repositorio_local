@@ -6,8 +6,11 @@ namespace dotnetdio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello DIO codes!!!!");
+            int nVezes = 5;
+            for (int i=0; i < nVezes; i++ )
+            {
+                console.writeLine($" Bemvindo ao Curso de .NET {i}");
+            }
         }
     }
 }
