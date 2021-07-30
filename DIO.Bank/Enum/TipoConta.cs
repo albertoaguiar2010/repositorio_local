@@ -1,4 +1,4 @@
-namespace DIO.Bank.Enum
+namespace DIO.Bank
 {
     public enum TipoConta
     {
