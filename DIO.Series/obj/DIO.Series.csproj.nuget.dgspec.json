@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\repositorio_local\\DIO.Series\\DIO.Series.csproj": {}
+    "C:\\repositorio_local\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "c:\\repositorio_local\\DIO.Series\\DIO.Series.csproj": {
+    "C:\\repositorio_local\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\repositorio_local\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "C:\\repositorio_local\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "c:\\repositorio_local\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "C:\\repositorio_local\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "c:\\repositorio_local\\DIO.Series\\obj\\",
+        "outputPath": "C:\\repositorio_local\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
