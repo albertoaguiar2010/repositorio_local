@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj": {}
+    "C:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "c:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj": {
+    "C:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "c:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj",
+        "projectPath": "C:\\repositorio_local\\DIO.Bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "c:\\repositorio_local\\DIO.Bank\\obj\\",
+        "outputPath": "C:\\repositorio_local\\DIO.Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
