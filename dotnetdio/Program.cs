@@ -6,12 +6,12 @@ namespace dotnetdio
     {
         static void Main(string[] args)
         {
-            int nVezes = 5;
+            int nVezes = 10;
 
             for (int i=0; i < nVezes; i++ )
             {
                 Console.WriteLine($" Bemvindo ao Curso de .NET {i}");
-                Console.WriteLine("Hello World!");
+                //Console.WriteLine("Hello World!");
             }
         }
     }
