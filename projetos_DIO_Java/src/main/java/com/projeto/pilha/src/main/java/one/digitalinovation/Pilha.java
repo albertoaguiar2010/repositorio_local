@@ -1,17 +1,18 @@
 package one.digitalinovation;
 
 public class Pilha {
-    private No refNoEntradaPilha;
 
-    public Pilha(){
+    No refNoEntradaPilha = null;
 
-        this.refNoEntradaPilha = null;
+   // public Pilha(){
 
-    }
+  //      this.refNoEntradaPilha = null;
+
+   // }
 
     public void push(No novoNo){
      No refAuxiliar =refNoEntradaPilha;
-
+     refNoEntradaPilha = novoNo;
      refNoEntradaPilha.setRefNo(refAuxiliar);
     }
 
@@ -19,15 +20,14 @@ public class Pilha {
         if(!this.isEmpyt()){
             No noPoped =refNoEntradaPilha;
             refNoEntradaPilha = refNoEntradaPilha.getRefNo();
+            return noPoped;
         }
         return null;
     }
 
-
     public No top(){
         return refNoEntradaPilha;
     }
-
     public boolean isEmpyt(){
    //     if ( refNoEntradaPilha == null){
   //          return true;
@@ -41,7 +41,7 @@ public class Pilha {
     public String toString() {
 
         String stringRetorno = "_____________\n";
-        stringRetorno += "       pilha\n";
+        stringRetorno += "   Pilha\n";
         stringRetorno += "_____________\n";
 
         No noAuxiliar = refNoEntradaPilha;
